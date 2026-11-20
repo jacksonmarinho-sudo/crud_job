@@ -1,0 +1,25 @@
+{
+  "name": "crud_job",
+  "version": "1.0.0",
+  "description": "CRUD desenvovilmento de projetos CRUD para praticar as operações de criação , consulta atualização e exclusão de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonmarinho-sudo/crud_job.git"
+  },
+  "keywords": [],
+  "author": "Jackson s Marinho ",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jacksonmarinho-sudo/crud_job/issues"
+  },
+  "homepage": "https://github.com/jacksonmarinho-sudo/crud_job#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "sqlite3": "^6.0.1"
+  }
+}
